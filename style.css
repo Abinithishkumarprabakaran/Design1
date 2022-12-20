@@ -1,0 +1,45 @@
+.formContent{
+    margin: 10px 10px 10px 10px;
+    width: 75%;
+}
+.formContent-2{
+    margin: 10px 10px 10px 10px;
+
+}
+.cont{
+    margin:0px 0px 0px 0px;
+}
+
+.form-label{
+    margin: 0px 0px 0px 0px;
+}
+
+.star{
+    width: 22px;
+    height: 22px;
+    fill: rgb(253, 212, 6);
+}
+
+.form-label{
+    font-weight: Bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ft{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.btx{
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.asx{
+    display: flex;
+}
+
+.col-2{
+    justify-content: center;
+    align-content:center;
+}
